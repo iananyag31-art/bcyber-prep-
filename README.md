@@ -10,9 +10,19 @@ I am preparing for the Bachelor of Cybersecurity (B.cyber program) at IIT Kanpur
 - Linux fundamentals(TrcHackMe)
 - CTF challanges (PicoCTF)
 # progress tracker 
-  PROGRESS:                                    STATUS:
-- CS50P WEEK1
-- TryHackMe Pre security
-- PicoCTF(now CyLab Security) Challanges
+ | Platform | Status |
+|---        |  ---|
+| CS50P Week 0 | In Progress |
+| TryHackMe Pre-Security | In Progress — 6 rooms completed |
+| PicoCTF Challenges | Not Started |
+## TryHackMe Rooms Completed
+- Offensive Security Intro
+- Defensive Security Intro
+- Careers in Cyber
+- What is Networking?
+- What is the Internet?
+- Identifying Devices on a Network
+- ping(ICMP)
+- 
 # goal
 admission to IIT Kanpuur program and a career protecting India's critical digital infrastructure 
