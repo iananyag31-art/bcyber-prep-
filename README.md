@@ -10,19 +10,61 @@ I am preparing for the Bachelor of Cybersecurity (B.cyber program) at IIT Kanpur
 - Linux fundamentals(TrcHackMe)
 - CTF challanges (PicoCTF)
 # progress tracker 
- | Platform | Status |
-|---        |  ---|
+ ## Progress Tracker
+| Platform | Status |
+|---|---|
 | CS50P Week 0 | In Progress |
-| TryHackMe Pre-Security | In Progress — 6 rooms completed |
+| TryHackMe Pre-Security | Completed ✅ |
+| TryHackMe Introduction to Cybersecurity | Up Next |
 | PicoCTF Challenges | Not Started |
-## TryHackMe Rooms Completed
+
+## TryHackMe — Pre-Security Path Completed ✅
+
+### Module 1 — Introduction to Cybersecurity
 - Offensive Security Intro
 - Defensive Security Intro
 - Careers in Cyber
+
+### Module 2 — Network Fundamentals
 - What is Networking?
-- What is the Internet?
-- Identifying Devices on a Network
-- ping(ICMP)
-- 
-# goal
-admission to IIT Kanpuur program and a career protecting India's critical digital infrastructure 
+- Intro to LAN
+- OSI Model
+- Packets and Frames
+- Extending Your Network
+
+### Module 3 — How the Web Works
+- DNS in Detail
+- HTTP in Detail
+- How Websites Work
+- Putting it All Together
+
+### Module 4 — Computer Fundamentals
+- Inside of a Computer
+- Computer Types
+- Client Server Basics
+- Virtualisation Basics
+- Cloud Computing Fundamentals
+
+### Module 5 — Operating System Basics
+- Operating Systems Introduction
+- Windows Basics
+- Linux CLI Basics
+- Windows CLI Basics
+- Operating System Security
+
+### Module 6 — Software Basics
+- Data Representation
+- Data Encoding
+- Python Simple Demo
+- JavaScript Simple Demo
+- Database SQL Basics
+
+### Module 7 — Attack and Defense
+- CIA Triad
+- Cryptocurrency Concepts
+- Become a Hacker
+- Become a Defender
+
+## Goal
+Admission to IIT Kanpur B.Cyber program and a career 
+in protecting India's critical digital infrastructure.
