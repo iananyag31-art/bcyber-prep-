@@ -5,6 +5,32 @@ I am preparing for the Bachelor of Cybersecurity (B.cyber program) at IIT Kanpur
 - Name: Ananya Gupta
 - Background: PCM+IP, Class 12(2026)
 - Interest: Cybersecurity, ethical hacking, national digital security
+- ## Projects
+
+### 1. Periodic Table Data Analysis (Python)
+A comprehensive data analysis project on all elements of the periodic table.
+
+**Built with:** Python, Pandas, Matplotlib, CSV datasets
+
+**Features:**
+- 16 different analysis options via interactive menu
+- Statistical analysis of element properties
+- Radioactive elements database with half-life and decay details
+- Element discovery history and details
+- Data visualisations including:
+  - Thermal Conductivity vs Atomic Number
+  - Atomic Radius trends (first 30 elements)
+  - Melting and Boiling point trends (first 90 elements)
+  - Distribution of elements by Atomic Mass
+  - Isotope count analysis
+
+**What it demonstrates:**
+- Python programming (pandas, matplotlib)
+- Data filtering and analysis
+- Graph plotting and visualisation
+- Menu driven program logic
+
+[View Code](link to the file on GitHub)
 # what i am currently learning
 - Python()
 - Linux fundamentals(TrcHackMe)
