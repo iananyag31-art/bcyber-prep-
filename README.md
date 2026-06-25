@@ -30,7 +30,7 @@ A comprehensive data analysis project on all elements of the periodic table.
 - Graph plotting and visualisation
 - Menu driven program logic
 
-[View Code](link to the file on GitHub)
+[[View Code](link to the file on GitHub)](https://github.com/iananyag31-art/periodic-table-analysis.git)
 # what i am currently learning
 - Python()
 - Linux fundamentals(TrcHackMe)
